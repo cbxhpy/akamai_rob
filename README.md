@@ -1,6 +1,15 @@
 # akamai_rob
 
 本项目旨在绕过akamai sensor_data 的机器人模拟
+
+==========================
+
+联系方式QQ：527109729
+
+==========================
+
+支持网站：
+
 ti.com 德州仪器 TI.com.cn akamai  ti bot 芯片 抢购 监控
 https://www.nike.com  抢鞋 bot
 https://www.xfinity.com
