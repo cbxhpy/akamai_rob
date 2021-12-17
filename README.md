@@ -1,43 +1,45 @@
 # akamai_rob
 
 本项目旨在绕过akamai sensor_data 的机器人模拟
-芯片 抢鞋 抢购 ROT BOT 德州仪器
-==========================
 
-联系方式QQ：527109729
+#芯片 抢鞋 抢购 ROT BOT 德州仪器
 
-==========================
+====================================================
+##联系方式QQ：527109729
+
+====================================================
 
 支持网站：
 
 https://www.ti.com.cn  德州仪器 TI.com.cn akamai  ti bot 芯片 抢购 监控
+| 网站 |  说明 |
+|----|----|
+|https://www.nike.com |  抢鞋 bot|
+|https://www.xfinity.com | |
+|https://www.ups.com | |
+|https://www.banggood.com | |
+|https://www.homedepot.com | |
+|https://www.groupon.com | |
+|https://www.att.com | |
+|https://www.lenovo.com | |
+|https://www.zara.com | |
+|https://www.olx.in | |
+|https://www.lowes.com | |
+|https://www.usbank.com | |
+|https://www.farfetch.com | |
+|https://www.dhl.de | |
+|https://www.g2a.com | |
+|https://www.fedex.com | |
+|https://www.rottentomatoes.com | |
+|https://www.uniqlo.com | |
+|https://www.collegeboard.org | |
+|https://www.xero.com | |
+|https://www.emirates.com | |
+|https://www.thetrainline.com | |
+|https://www.zalando.com | |
 
-https://www.nike.com  抢鞋 bot
-https://www.xfinity.com
-https://www.ups.com
-https://www.banggood.com
-https://www.homedepot.com
-https://www.groupon.com
-https://www.att.com
-https://www.lenovo.com
-https://www.zara.com
-https://www.olx.in
-https://www.lowes.com
-https://www.usbank.com
-https://www.farfetch.com
-https://www.dhl.de
-https://www.g2a.com
-https://www.fedex.com
-https://www.rottentomatoes.com
-https://www.uniqlo.com
-https://www.collegeboard.org
-https://www.xero.com
-https://www.emirates.com
-https://www.thetrainline.com
-https://www.zalando.com
-
-'''
-var _cf = _cf || [],
+```javascript
+  var _cf = _cf || [],
   bmak = bmak && bmak.hasOwnProperty("ver") && bmak.hasOwnProperty("sed") ? bmak : {
     ver: 1.7,
     ke_cnt_lmt: 150,
@@ -159,7 +161,6 @@ var _cf = _cf || [],
         i = -1,
         c = -1,
         b = -1;
-
       try {
         n = window.screen ? window.screen.availWidth : -1;
       } catch (t) {
@@ -1435,4 +1436,4 @@ if (function(t) {
     bmak.mn_init();
   } catch (t) {}
 }
-'''
+```
