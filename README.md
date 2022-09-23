@@ -2,7 +2,7 @@
 
 本项目旨在绕过akamai sensor_data 的机器人模拟
 
-# 芯片 抢鞋 抢购 ROT BOT 德州仪器
+# 芯片 抢鞋 抢购 ROT BOT 德州仪器 ，航司 捷星 国泰
 
 
 ## 联系方式QQ：527109729
@@ -13,6 +13,7 @@
 https://www.ti.com.cn  德州仪器 TI.com.cn akamai  ti bot 芯片 抢购 监控
 | 网站 |  说明 |
 |----|----|
+|https://www.cathaypacific.com/ |  国泰|
 |https://www.nike.com |  抢鞋 bot|
 |https://www.xfinity.com | |
 |https://www.ups.com | |
