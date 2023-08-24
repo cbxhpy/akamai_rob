@@ -3,7 +3,8 @@
 本项目旨在绕过akamai sensor_data 的机器人模拟
 
 # 芯片 抢鞋 抢购 ROT BOT 德州仪器 ，航司 捷星 国泰
-
+akamai 1.75 akamai 2.x
+sensordata abck bmsz
 
 ## 联系方式QQ：527109729
 
