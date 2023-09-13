@@ -14,6 +14,7 @@ sensordata abck bmsz
 https://www.ti.com.cn  德州仪器 TI.com.cn akamai  ti bot 芯片 抢购 监控
 | 网站 |  说明 |
 |----|----|
+|https://www.att.com/ |  att|
 |https://www.cathaypacific.com/ |  国泰|
 |https://www.nike.com |  抢鞋 bot|
 |https://www.xfinity.com | |
