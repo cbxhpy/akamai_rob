@@ -6,7 +6,8 @@
 akamai 1.75 akamai 2.x
 sensordata abck bmsz
 
-## 联系方式QQ：527109729
+## 联系方式 QQ：527109729
+## Telegram: http://t.me/qq527109729
 
 
 支持网站：
