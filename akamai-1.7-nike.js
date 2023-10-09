@@ -1,4 +1,4 @@
-var _cf = _cf || [],
+var _cf = _cf || [], 
   bmak = bmak && bmak.hasOwnProperty("ver") && bmak.hasOwnProperty("sed") ? bmak : {
     ver: 1.7,
     ke_cnt_lmt: 150,
